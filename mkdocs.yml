@@ -1,0 +1,40 @@
+site_name: Unit 20 Assignment 1
+site_url: https://unit-20-assignment-1-wiki-web.pages.dev/
+
+theme:
+  name: material
+
+repo_url: https://github.com/CharlieS-432737/Unit-20-Assignment-1-Wiki-Web
+repo_name: Unit 20 Assignment 1 Wiki
+
+nav:
+  - Introduction: "index.md"
+  - Justification: "Justification and evaluation.md"
+  - The tools used: "Tools.md"
+  - Types of systems: "Types of systems.md"
+  - Faults:
+    - Fault finding: 'Faults/Fault finding.md'
+    - The fault database: 'Faults/Fault database.md'
+  - Drive management:
+    - Backups and restoring procedures: 'Drive management/Backups and restoring procedures.md'
+    - Drive imaging: 'Drive management/Drive imaging.md'
+    - Drive mapping: 'Drive management/Drive mapping.md'
+  - Support:
+    - Proving technical support: 'Support/Proving technical support.md'
+    - Support database: 'Support/Support database.md'
+    - Analysis: 'Support/Analysis.md'
+  - Security:
+    - Access control: 'Security procedures/Access control.md'
+    - Antivirus: 'Security procedures/Antivirus.md'
+    - Firewall: 'Security procedures/Firewall.md'
+    - License management: 'Security procedures/License management.md'
+    - Security policies: 'Security procedures/Security policies.md'
+  - Contingency plans:
+    - Natural disasters: 'Contingency plans/Natural disasters.md'
+    - Network failure: 'Contingency plans/Network failure.md'
+    - Power outages: 'Contingency plans/Power outages.md'
+    - Security breach: 'Contingency plans/Security breach.md'
+    - Server hardware failure: 'Contingency plans/Server hardware failure.md'
+    - Virus infection: 'Contingency plans/Virus infection.md'
+  - Long term plans:
+    - Server hardware upgrades: 'Long term plans/Server hardware upgrades.md'

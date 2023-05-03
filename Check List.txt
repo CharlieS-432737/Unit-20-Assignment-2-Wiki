@@ -1,0 +1,19 @@
+Plans:
+	Network code of practice ✓
+	Suport request and escalation procedures ✓
+	A service level aggreement proposal ✓
+	Contingency plans ✓
+	User support documentation ✓
+	Security policies ✓
+	Access control ✓
+	Traffic management ✓
+	User desktop interface design ✓
+	system and network requirements ✓
+	backup procedures ✓
+	Justification ✓
+
+Setup plans:
+	Network plan ✓
+	Software plan ✓
+	Setup plan ✓
+	Justification
