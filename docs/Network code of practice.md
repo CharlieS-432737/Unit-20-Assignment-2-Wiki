@@ -11,5 +11,3 @@
 - **Network Performance**: The network must be monitored regularly to ensure that it is performing optimally. Network bandwidth must be monitored to ensure that it is not being overused, and network devices must be upgraded or replaced as needed to ensure that they can handle the workload.
 
 - **Network Documentation**: All network devices and software must be documented, including IP addresses, network topology, and configuration settings. This documentation must be kept up to date and stored in a secure location.
-
-By following this network code of practice, you can ensure that the network is secure, reliable, and performing optimally, and that data is protected from unauthorized access and potential threats.

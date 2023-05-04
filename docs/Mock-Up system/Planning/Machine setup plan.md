@@ -1,4 +1,4 @@
-# <u>**Setup plan**</u>
+# <u>**Machine setup plan**</u>
 
 ## Workstations
 
@@ -6,7 +6,7 @@
 
 The workstations desktops will have this company logo as their background.
 
-![logo](Logo.PNG)
+![logo](../screenshots/Logo.PNG)
 
 On the desktops, there will be shortcuts to office 365 word and excel, the calculator app, file explorer and google chrome.
 

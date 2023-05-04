@@ -1,4 +1,4 @@
-# <u>**Service Level Agreement Proposal**</u>
+# <u>**Service level agreement proposal**</u>
 
 This Service Level Agreement (SLA) outlines the terms and conditions for the provision of IT support services to the new branch office of the company. The IT support services will be provided by the IT support team of the company, and will include the following:
 
