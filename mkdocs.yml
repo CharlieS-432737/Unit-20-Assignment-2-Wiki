@@ -1,5 +1,5 @@
-site_name: Unit 20 Assignment 1
-site_url: https://unit-20-assignment-1-wiki-web.pages.dev/
+site_name: Unit 20 Assignment 2
+site_url: https://unit-20-assignment-2-wiki.pages.dev/
 
 theme:
   name: material
@@ -8,7 +8,7 @@ extra_css:
   - ./style.css
 
 repo_url: https://github.com/CharlieS-432737/Unit-20-Assignment-2-Wiki
-repo_name: Unit 20 Assignment 1 Wiki
+repo_name: Unit 20 Assignment 2 Wiki
 
 nav:
   - Introduction: "index.md"
