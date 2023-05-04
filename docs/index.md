@@ -3,7 +3,7 @@
 ## Table of content
 
 - [Network code of practice](./Network code of practice.md)
-- [Service level agreement proposal](./Service level agreement proposal.md)
+- [Service level agreement proposal](./Service-level-agreement-proposal.md)
 - [System and network requirements](./System and network requirements.md)
 - [Backup procedures](./Backup procedures/Backups and restoring procedures.md)
 - [Justification of plans](./Justification of plans.md)
@@ -15,7 +15,7 @@
 - Security:
     - [Access control](./Security/Access control.md)
     - [Security policies](./Security/Security policies.md)
-    - [Traffic management](./Security/Traffic management.md)
+    - [Traffic management](./Security/Traffic-management.md)
 - Contingency plans:
     - [Natural disasters](./Contingency plans/Natural disasters.md)
     - [Network failure](./Contingency plans/Network failure.md)
