@@ -2,13 +2,13 @@
 
 ## <u>Desktops</u>
 
-The desktops if the users.
+The desktops for the users.
 
 ![desktop](./screenshots/Desktop.png)
 
 ## <u>Users</u>
 
-The users setup on windows.
+The users setup on Windows.
 
 ![windows users](./screenshots/Accounts.png)
 
@@ -26,14 +26,14 @@ The permission setup of the folders on the server.
 
 ## <u>Folders</u>
 
-How the junior staff see the network share. The management folder is hidden and they will get a permission error if they try and write to the polices and procedures folder
+How the Junior staff see the network share. The management folder is hidden and they will get a permission error if they try and write to the policies and procedures folder.
 
 ![Junior staff](./screenshots/Junior%20folders.png)
 ![Junior staff](./screenshots/Junior%20permission.png)
 
-How the mangers will see the network share. They can view all folders but will get an permissions error if they attempt to write in the polices and procedures folder or management folder
+How the managers will see the network share. They can view all folders but will get an permissions error if they attempt to write in the policies and procedures folder or management folder.
 
-![Manager](./screenshots/Manager%20folders.png))
+![Manager](./screenshots/Manager%20folders.png)
 ![Manager](./screenshots/Manager%20folder.png)
 
 How the directors will see the network share. They can view all of the folders and can read from and write to all of them.

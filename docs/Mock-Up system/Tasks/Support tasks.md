@@ -4,7 +4,7 @@
 
 **Problem:**
 
-The computer was unable to connect to the wifi network.
+The computer was unable to connect to the Wi-Fi network.
 
 **What happened?:**
 
@@ -25,7 +25,7 @@ Windows was unable to access the NAS.
 
 **What happened?:**
 
-Windows could not connect to the NAS. It turned out the user has entered the incorrect login info and did know to change it.
+Windows could not connect to the NAS. It turned out the user has entered the incorrect login info and didn't know to change it.
 
 **Solution:**
 
@@ -43,11 +43,11 @@ The user was attempting to access facebook from the organizations network.
 
 **What happened?:**
 
-The user was attempting to access facebook from a workstation connected to the organizations network. The firewall was mistakenly blocking the website because it thought it was malicious.
+The user was attempting to access Facebook from a workstation connected to the organizations network. The firewall was mistakenly blocking the website because it thought it was malicious.
 
 **Solution:**
 
-www.Facebook.com was added as an exception to the firewall and the user was able to access the website
+www.facebook.com was added as an exception to the firewall and the user was able to access the website
 
 ![task website](../screenshots/tasks/Task%20website.png)
 ![task fix](../screenshots/tasks/Task%20website%20fix.png)
