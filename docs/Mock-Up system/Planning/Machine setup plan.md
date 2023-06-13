@@ -12,17 +12,25 @@ On the desktops, there will be shortcuts to Office 365 Word and Excel, the calcu
 
 ### Users
 
-The workstations will be set up with three user groups (Junior staff, mangers and directors).
+The workstations will be set up with three user groups:
+
+- Junior Staff
+- Managers
+- Directors
 
 ### Storage
 
-The workstations will have a single drive installed in them. This will hold the os and software that has been installed. This will be mounted as the C: drive. The workstations will then have the server mapped as the D: drive. The employees will be requested to save their work on the server and not on their local machines.
+The workstations will have a single drive installed in them. This will hold the OS and software that has been installed. This will be mounted as the C: drive. The workstations will then have the NAS mapped as the D: drive. The employees will be requested to save their work on the server and not on their local machines.
 
 ## Server
 
 ### Users
 
-The server will be setup with three different user groups on it (Junior Staff, Managers and directors).
+The server will be setup with three different user groups on it:
+
+- Junior Staff
+- Managers
+- Directors
 
 ### Folders
 

@@ -16,7 +16,7 @@ nav:
   - Service level agreement proposal: "Service-level-agreement-proposal.md"
   - System and network requirements: "System and network requirements.md"
   - Backup procedures: 'Backup procedures/Backups and restoring procedures.md'
-  - Justification of plans: "Justification of plans.md"
+  - Evaluation & Justification of plans.md: "Evaluation and Justification of plans.md"
   - Support:
     - User support documentation: 'Support/User support documentation.md'
     - Proving technical support: 'Support/Proving technical support.md'

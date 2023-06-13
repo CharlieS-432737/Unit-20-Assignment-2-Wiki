@@ -6,7 +6,7 @@
 - [Service level agreement proposal](./Service-level-agreement-proposal.md)
 - [System and network requirements](./System and network requirements.md)
 - [Backup procedures](./Backup procedures/Backups and restoring procedures.md)
-- [Justification of plans](./Justification of plans.md)
+- [Evaluation & Justification of plans.md](./Evaluation and Justification of plans.md)
 - Support:
     - [User support documentation](./Support/User support documentation.md)
     - [Proving technical support](./Support/Proving technical support.md)
@@ -27,6 +27,7 @@
     - [Support tasks](./Mock-Up system/Tasks/Support tasks.md)
     - [Evidence](./Mock-Up system/Evidence of system.md)
     - Planning:
+        - [Test plan](./Mock-Up%20system/Planning/Test%20plan.md)
         - [Network plan](./Mock-Up system/Planning/Networking plan.md)
         - [Machine setup](./Mock-Up system/Planning/Machine setup plan.md)
         - [Software](./Mock-Up system/Planning/Software plan.md)
