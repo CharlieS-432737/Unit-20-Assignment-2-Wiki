@@ -19,3 +19,13 @@ The network will be monitored regularly to detect any potential issues or securi
 ## Network Performance
 
 The network will be monitored regularly to ensure that it is performing optimally. Network devices will be upgraded or replaced as needed to ensure that they can handle the workload.
+
+## Based on feedback
+
+### Firewall
+
+An advanced firewall solution, incorporating state-of-the-art intrusion detection systems, will be deployed to effectively control and regulate the flow of network traffic, ensuring only authorized access in and out of the network.
+
+### Encryption
+
+To enhance the security of data transmission within the network, strong encryption protocols will be implemented. All sensitive information, including user credentials, confidential documents, and communication data, will be encrypted using industry-standard encryption algorithms. This ensures that even if unauthorized individuals gain access to the network, the encrypted data remains unintelligible and protected from interception or tampering. Additionally, encryption keys will be securely managed to maintain the confidentiality and integrity of the encrypted data.
