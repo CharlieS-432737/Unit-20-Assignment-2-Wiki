@@ -31,6 +31,7 @@ The workstations will have a single drive installed, with the OS and software. T
 The user security aspects will be implemented based on the plans outlined in the security folder. These plans will outline the specific security measures and configurations required to ensure the integrity and confidentiality of user accounts and data.
 
 #### Optimizations for Performance and Security
+
 To optimize performance and security, the following measures will be implemented:
 
 - Regular software updates and security patches will be applied to the workstations to address any vulnerabilities and ensure system integrity.
@@ -62,9 +63,10 @@ The server will be set up with three main folders:
 ### Improvements based on feedback
 
 #### Optimizations for Performance and Security
+
 To optimize performance and security on the server, the following measures will be implemented:
 
-- Regular backups of server data will be performed to ensure data integrity and facilitate disaster recovery in case of any issues. Backups will be stored securely in an offsite location.
+- Regular backups of server data will be performed to ensure data integrity and facilitate disaster recovery in case of any issues. Backups will be stored securely in an off-site location.
 - Redundancy measures, such as RAID configurations, will be implemented to enhance data availability and protect against data loss.
 - Intrusion detection and prevention systems will be deployed to monitor and mitigate potential security threats.
 - Network traffic monitoring tools will be utilized to identify any abnormal network activities and potential security breaches.

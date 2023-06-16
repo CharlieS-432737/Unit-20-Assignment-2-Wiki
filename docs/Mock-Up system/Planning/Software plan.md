@@ -12,6 +12,6 @@
 
 ## Justification
 
-- Im using windows 11 on the work stations because it is the latest version of windows to be released and will be supported the longest.
+- I've opted to utilize Windows 11 as the operating system for our work stations, as it represents the cutting-edge in Windows technology, being the latest version released and poised to receive long-term support.
 
-- Im using trueNAS for the server because it is easy and free to setup and has an easy to understand web interface that can be used to manage everything on the server.
+- I've chosen TrueNAS as the operating system for our server due to its exceptional ease of setup and cost-effectiveness, boasting a user-friendly web interface that simplifies server management tasks.
